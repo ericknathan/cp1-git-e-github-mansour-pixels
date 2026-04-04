@@ -160,12 +160,17 @@
     </main>
     <footer>
         <section>
-        <p>&copy; 2021 Soia Cnnt. Tds s dritos rsedos.</p>
+        <p>&copy; <span id="year"></span> Soia Cnnt. Tds s dritos rsedos.</p>
         </section>
         <section id="socialmedia">
             <span>xxxxx</span>
             <span>xxxxxx</span>
         </section>
     </footer>
+    <script>
+        const d = new Date();
+        let current_year = d.getFullYear();
+        document.getElementById("year").innerHTML = current_year
+    </script>
 </body>
 </html>

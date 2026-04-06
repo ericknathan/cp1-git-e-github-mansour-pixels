@@ -14,7 +14,7 @@
 - [Descrição do Projeto](#-descrição-do-projeto)
 - [Tecnologias Utilizadas](#-tecnologias-utilizadas)
 - [Como Executar o Projeto](#-como-executar-o-projeto)
-- [Autores](#-autores)
+- [Integrantes](#-integrantes)
 
 ---
 

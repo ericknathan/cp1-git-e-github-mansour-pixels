@@ -7,9 +7,7 @@
   <img src="https://img.shields.io/badge/Licença-MIT-blue?style=for-the-badge" alt="Licença">
 </p>
 
-> **Resumo:** Repositório destinado ao CheckPoint 1 (CP1) de Git e GitHub. O foco deste projeto é demonstrar o domínio sobre versionamento de código, fluxos de trabalho colaborativos (branches, pull requests, merges) e resolução de conflitos em equipe.
-
----
+> **Resumo:** Repositório destinado ao projeto Social Connect, que também faz parte do CheckPoint (01). A Social Connect é uma empresa inovadora que conecta você às pessoas certas. Em nossa plataforma, os usuários podem criar perfis, compartilhar atualizações, seguir outras pessoas e interagir por meio de mensagens privadas. O objetivo principal é aprimorar o uso do Git e do GitHub, tanto para fins acadêmicos quanto profissionais. Neste repositório, utilizamos branches e comandos clássicos do Git, como git commit, git add . e git log. Para acessar o projeto, basta utilizar o link a seguir: https://ericknathan.github.io/cp1-git-e-github-mansour-pixels/
 
 ## 📋 Índice
 
@@ -23,9 +21,7 @@
 
 ## 📖 Descrição do Projeto
 
-O **Mansour Pixels** é uma aplicação desenvolvida como parte da avaliação de versionamento de código. *(Descreva aqui brevemente o que a aplicação faz na prática. Ex: "Trata-se de uma landing page para uma galeria de pixel art..." ou "É um sistema de cadastro via terminal...")*
-
-O grande diferencial acadêmico deste repositório não é apenas o código em si, mas a **trilha de commits e o uso avançado do Git**, evidenciando boas práticas de colaboração entre a equipe.
+A **Social Connect**  é uma plataforma inovadora com a missão de conectar você às pessoas certas. O projeto visa construir um ambiente digital dinâmico e interativo, focado na criação de comunidades e no fortalecimento de redes de contatos.
 
 ---
 
@@ -73,39 +69,39 @@ $ code .
 ```
 ---
 
-## 👨‍💻 Autores
+## 👨‍💻 Integrantes
 
 <table>
   <tr>
     <td align="center">
       <img src="https://avatars.githubusercontent.com/u/88509491?v=4" width="115" alt="Foto de Henrique Bueno"/><br>
       <sub>
-        <b>Henrique&nbsp;Bueno</b>
+        <b>Henrique Bueno - RM: 570591</b>
       </sub>
     </td>
     <td align="center">
       <img src="https://avatars.githubusercontent.com/u/163877731?v=4" width="115" alt="Foto de Állex Brandão"/><br>
       <sub>
-        <b>Állex&nbsp;Brandão</b>
+        <b>Állex Brandão - RM: 571383</b>
       </sub>
     </td>
     <td align="center">
         <img src="https://avatars.githubusercontent.com/u/53922235?v=4" width="115" alt="Foto de Erick Nathan"/><br>
         <sub>
-          <b>Erick&nbsp;Nathan</b>
+          <b>Erick Nathan - RM: 573635</b>
         </sub>
       </a>
     </td>
     <td align="center">
       <img src="https://avatars.githubusercontent.com/u/132668384?v=4" width="115" alt="Foto de Murilo Gomes"/><br>
       <sub>
-        <b>Murilo&nbsp;Gomes</b>
+        <b>Murilo Gomes - RM: 570941 </b>
       </sub>
     </td>
     <td align="center">
       <img src="https://avatars.githubusercontent.com/u/108024578?v=4" width="115" alt="Foto de Enzo Abreu"/><br>
       <sub>
-        <b>Enzo&nbsp;Abreu</b>
+        <b>Enzo Abreu - RM: 572995</b>
       </sub>
     </td>
   </tr>
